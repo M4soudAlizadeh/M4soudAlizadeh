@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M4soud Alizadeh
 - 👀 I’m interested in front-end developer
-- 🌱 I'm currently learned html,css,js / React / Next Js and want keep learning
+- 🌱 I'm currently learned html,css,Tailwind css,js / React / Next Js and want keep learning
 - 💞️ I’m want improve myself in the programing industry 
 - 📫 How to reach me? just send mail to me: m4soudAlizadeh@gmail.com
 
